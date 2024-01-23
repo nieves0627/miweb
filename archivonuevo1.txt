@@ -1,2 +1,4 @@
 conejo feliz
 conejo malcriado
+conejo sano
+conejo saltarin
