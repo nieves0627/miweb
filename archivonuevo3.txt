@@ -2,3 +2,5 @@ perro feliz
 perr sano
 perro cobarde
 perro dramatico
+perro gordo
+perro flaco
