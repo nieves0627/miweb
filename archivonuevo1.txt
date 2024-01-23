@@ -2,3 +2,5 @@ conejo feliz
 conejo malcriado
 conejo sano
 conejo saltarin
+conejo cobarde
+conejo gordo
